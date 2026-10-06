@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "spearmace",
+  "version": "0.1.0",
+  "name": "Spear Mace Helper",
+  "description": "Quick spear slot key and auto-swap to mace when falling onto a target.",
+  "authors": ["YourName"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.spearmace.SpearMaceClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "fabric-api": "*"
+  }
+}
