@@ -1,5 +1,5 @@
 {
-  "key.spearmace.toggle": "Toggle mace auto-swap",
-  "key.spearmace.spear": "Select spear slot",
+  "key.spearmace.toggle": "Toggle auto-swap",
+  "key.spearmace.spear": "Lunge (spear, then food)",
   "key.category.spearmace.main": "Spear Mace Helper"
 }
